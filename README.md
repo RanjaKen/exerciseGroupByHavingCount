@@ -1,0 +1,2 @@
+# exerciseGroupByHavingCount
+Exercise on Kaggle
